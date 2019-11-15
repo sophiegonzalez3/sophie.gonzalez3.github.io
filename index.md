@@ -47,7 +47,7 @@
 						<li><a href="generic.html">DESIGN</a></li>
 						<li><a href="elements.html">MUSIC</a></li>
             <li><a href="elements.html">BLOG</a></li>
-             <li><a href="/CV_sophie_gonzalez_2019.pdf">CV</a></li>
+             <li><a href="/docs/CV_sophie_gonzalez_2019.pdf">CV</a></li>
 					</ul>
 				</nav>
 			</header>
@@ -65,7 +65,7 @@
 							<div class="6u 12u$(medium)">
 								<header class="major">
 									<h2>About me</h2>
-									<div class="11u"><span class="image fit"><img src="images/fb_profile.jpg" style="max-width: 400px" alt="" /></span></div>
+									<div class="11u"><span class="image fit"><img src="images/JOB.jpg" style="max-width: 400px" alt="" /></span></div>
 								</header>
 							</div>
 							<div class="6u$ 12u$(medium)">
