@@ -11,33 +11,23 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<link rel="stylesheet" href="assets/css/main.css" />
 
-  <!-- MathJax options -->
-  <script type="text/x-mathjax-config">
-    MathJax.Hub.Config({
-      tex2jax: {
-        inlineMath: [ ['$','$'], ["\\(","\\)"] ],
-        displayMath: [ ['$$','$$'], ["\\[","\\]"] ],
-        processEscapes: true
-      }
-    });
-  </script>
+	<!-- MathJax options -->
+	  <script type="text/x-mathjax-config">
+	    MathJax.Hub.Config({
+	      tex2jax: {
+		inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+		displayMath: [ ['$$','$$'], ["\\[","\\]"] ],
+		processEscapes: true
+	      }
+	    });
+	  </script>
 
-  <!-- Google tracking -->
-  <script>
-    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-    ga('create', 'UA-65368616-1', 'auto');
-    ga('send', 'pageview');
-  </script>
-  
-  <script type="text/javascript"
-     src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
-  </script>
- 
- </head>
-	 <body class="landing">
+	  <script type="text/javascript"
+	     src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+	  </script>
+ 	
+	</head>
+	<body class="landing">
 		<!-- Header -->
 			<header id="header" class="alt">
 				<h1><strong><a href="index.html">Spatial</a></strong> by Templated</h1>
@@ -46,19 +36,19 @@
 						<li><a href="index.html">Home</a></li>
 						<li><a href="generic.html">DESIGN</a></li>
 						<li><a href="elements.html">MUSIC</a></li>
-            <li><a href="elements.html">BLOG</a></li>
-             <li><a href="/docs/CV_sophie_gonzalez_2019.pdf">CV</a></li>
+            					<li><a href="elements.html">BLOG</a></li>
+             					<li><a href="/docs/CV_sophie_gonzalez_2019.pdf">CV</a></li>
 					</ul>
 				</nav>
 			</header>
 
- <!-- Banner -->
+ 		<!-- Banner -->
 			<section id="banner">
 				<h2>Sophie Gonzalez</h2>
 				<p>Data Scientist, among other things</p>
 			</section>
 			
-<!-- About me -->
+			<!-- About me -->
 				<section id="about" class="wrapper style1">
 					<div class="container 75%">
 						<div class="row 200%">
