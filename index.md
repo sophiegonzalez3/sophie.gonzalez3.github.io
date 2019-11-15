@@ -47,20 +47,15 @@
 						<li><a href="generic.html">DESIGN</a></li>
 						<li><a href="elements.html">MUSIC</a></li>
             <li><a href="elements.html">BLOG</a></li>
-             <li><a href="elements.html">CV</a></li>
+             <li><a href="/CV sophie gonzalez 2019.pdf">CV</a></li>
 					</ul>
 				</nav>
 			</header>
 
-			<a href="#menu" class="navPanelToggle"><span class="fa fa-bars"></span></a>
-
-		<!-- Banner -->
+ <!-- Banner -->
 			<section id="banner">
-				<h2>Spatial</h2>
-				<p>Lorem ipsum dolor sit amet nullam consequat <br /> interdum vivamus donce sed libero.</p>
-				<ul class="actions">
-					<li><a href="#" class="button special big">Get Started</a></li>
-				</ul>
+				<h2>Sophie Gonzalez</h2>
+				<p>Data Scientist, among other things</p>
 			</section>
 
 			<!-- One -->
